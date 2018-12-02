@@ -1,0 +1,23 @@
+Vilka programspråkstyper finns det?:Kompilerade, interpreterade och kombinerade.
+Beskriv kompilerade programmeringsspråk!:C, C++, pascal -> kompileras plattformsberoende -> Resulterar i exverbarfil (.exe / .dll).
+Beskriv interpreterade programmeringsspråk!:PHP, JavaScript, VBA -> Interpretator plattformsberoende -> Laddas i primärminnet. 
+Beskriv kombinerade programmeringsspråk!: Java, C#, Kotlin m.fl. -> komplileras (bl.a.) plattformsOberoende -> JVM (bytekod).
+Vad krävs för att köra Javaprogram?:Java Virtual Machine - A.k.a. JVM
+Vad krävs för att kunna skapa Javaprogram?:Java Development Kit (JDK).
+Vilka varianter finns av JDK?:Java SE (Standard Edition), Java EE (Enterprise Edition), Java ME (Micro Edition).
+Vad är ett objekt?:En modell av en företeelse. Det ÄR något, som INNEHÅLLER något (variabler) och som kan kan UTFÖRA något (metoder).
+Vilka egenskaper måste Objektorientering stödja?:Klasser, Inkapsling, Arv och Polymorfism (KIAP) 
+Vad är en klass?:En mall för nya objekt. Klassen instansierar nya objekt. 
+Vad är inkapsling?:Möjligheten att isolera kod så att den kan bytas ut eller modifieras utan att övrig kod påverkas (tänk moduler).
+Var innebär arv?:Att man från en generell klass kan skapa succesivt mer specialiserade subklasser och objekt där man kan "återanvända" kod. 
+Vad är polymorfism?:Ett objekt eller en metod kan ha olika egenskaper beroende på hur de anropas.
+Beskriv programtyper?:Konsolprogram (textbaserade), Fönterorienterade program, Webbapplikationer.
+Vilken nivå ligger programmeringsspråket Java på?:Java är en högnivåspråk (nära mänskligt språk).
+Beskriv vägen från programkod till att datorna kan förstå det?:Källkod (java) -> Bytekod (kompileras till bytekod) -> Maskinkod (körs in plattformsberoende virtuell maskin).
+Vad kallas det när man NAMNGER en variabel?:Deklaration
+Vad innebär "deklaration"?:Att man namnger en variabel eller referens. 
+Vad kallas det när man ger en variabel ett VÄRDE?:Tilldelning.
+Vad innebär "tilldelning"?:Att man tilldelar en variabel eller referens ett värde. 
+Vilka är de primitiva datatyperna?:byte, short, int, long, float, double, char, boolean. 
+Vilken är modulus operatorn?:% procentecknet. 
+Har gjort till och med...:Slides F5

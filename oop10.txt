@@ -1,0 +1,29 @@
+﻿Vilket reserverat ord använder man för att definiera en subklass?: Man använder "Extends".
+Vad innebär synlighetsnivå "private"?:Att metoden eller variabeln endast kan nås inifrån den aktuella klassen.
+Vad händer om man inte anger synlighetsnivå för metoder och eller variabler?:Synligheten blir "package private"!
+Hur säkerställer jag att ärvande klasser kan se metoder och variabler från superklassen?:Genom att sätta "protected" kan alla ärvande klasser se metoder/variablen.
+Vad händer om jag sätter "static" framför en instansvariabel?:Den blir en klassvariabel, gemensam för hela klassen.
+Vilket nyckelord kan användas för att komma åt variabler eller metoder i klassen man ärver ifrån?:"super".
+Vad händer om superklassen och den ärvande klassen har samma namn på en instansvariabel?:Instansvaribeln i den ärvande klassen döljer variablen i superklassen.
+Vad innebär att en metod "överskuggar" en annan?:Att man omdefinierat en metod i superklassen (ex toString). Detta bör märkas med @Override
+Vad är en "annotation"?:Det är speciella kommentarer i programkoden som märks med @ - tecknet!
+Varför kan det vara värdefullt att använda @Override när man överskuggar?:För att man blir uppmärksammad på om man inte definierat metoden korrekt!
+Vad är polymorfism?:Att metoder i ärvande klasser kan ha samma namn som i superklassen. Vilken av metoderna som väljs beror på klassen. 
+Vad måste vara uppfyllt för överskuggande metoder?:Samma namn. Samma typ och antal parametrar. Samma returtyp (undantag finns). De får inte har svagare synlighet. 
+Vad är dynamisk bindning?:Att Java först kontrollerar om objektet har metoden som söks. Om inte kontrolleras superklassen osv (ex toString). 
+Vad skiljer överlagring och överskuggning?:Överskuggning förutsätter att namn, parametrar och returtyp är samma (och ärvande klass). Överladdning förutsätter skillnader i parametertyp- eller antal samt att metoderna ligger i samma klass.
+Vad är den Engelska termen för "överskuggar"?:"Override"
+Hur kan man hindra ärvande klasser att override ("överskugga") metoder i superklassen?:Genom att använda det reserverade ordet "final" i metodhuvudet i superklassen.
+Hur får jag en parameterlös konstruktor på min klass?:Om ingen konstruktor definierats skapas en parameterlös konstruktor automatiskt. Om man angett en egen konstruktor måste man även definiera en parameterlös om en sådan önskas. 
+I vilken ordning sker stegen när en konstruktor anropas?:Instansvariabler = 0 eller null, Superklassens konstruktor anropas, Instansvariabler med intitieringsuttryck initieras & subklassens konstruktor exekveras.
+Vad är "Container"?:Det är en grafisk standardklass som också fungerar som en objektsamling. Alla containerokbjekt är subklasser till "Component".
+Var är en "heterogen objektsamling"?:En samling objekt som härstammar från samma superklass, men som inte är av samma typ. Kan användas för att skapa en array (eller lista, set, map) av olika objekt som tillhör samma superklass!
+Vad är en abstrakt klass?:Inga instanser kan skapas direkt från den. Den innehåller minst en abstrakt metod och kan även innehålla metoder med metodkroppar. Kan fungera som ett mönster för ärvande klasser och "påtvinga" metoder.
+Kan du ge exempel på några abstrakta standardklasser?:Component och Container.
+Vad är ett Interface(gränssnitt)?:Inga instanser kan skapas direkt från den. Interface "tvingar" den implementerande klassen att skapa metoder enligt en mall. Gränssnitt kan ha abstrakta metoder utan metodkropp och defaultmetoder (märkta "default") med kropp. 
+Var är den primära skillnaden mellan abstrakta klasser och gränssnitt?:Interfaces tillåter flera implementationer medans man bara kan ärva en klass (oavsett abstrakt eller inte). Abstrakt klass kan ha instansvariabler, det kna inte interfaces. 
+Hur kan interfaces synliggöras i ett UML diagram?:Som en vanlig klass fast med märkningen <<interface>> eller som en liten cirkel med namnet på gränssnittet. 
+Hur beter sig gränssnitt i listor?:Man kan skapa listor av objekt som implementerar samma gränssnitt oavsett vilka klasser de hör till.
+Vad är förutsättningen för att använda ett lambda-uttryck?:Att det refererar till ett funktionsgränssnitt (med en enda metod).
+Vad innebär att objekt är naturligt jämförbara?:Att de har en instansmetod med namnet "compareTo".
+Hur kan man använda en extern jämförare?:Genom att implementera "Comparator"<obj> (med metoden "compare"). Collator är exempel.
