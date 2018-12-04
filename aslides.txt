@@ -48,11 +48,11 @@ Beskriv modiferaren "public"!: Synlig överallt.
 Beskriv modiferaren "protected"!: Synlig i klassen + dess subklasser.
 Vad gör en omslagsklass?:Tillhandahåller konstanter och metoder som har med den inbyggda datatypen att göra. 
 Vad är "association"?:Objekt som har koppling till varandra (känner-till-relation)
-Vad innebär "aggregat"? Ett överordnat objekt (helheten) består av ett antal andra objekt (delarna).
+Vad innebär "aggregat"?:Ett överordnat objekt (helheten) består av ett antal andra objekt (delarna).
 Vad är ett paket?:En samling sammanhörande klasser och interface.
-Vad innebär en statisk metod? Metoden är ej knutet till något objekt, utan till klassen.
-Vad innebär när en metod är 'void'? Anger att den inte returnerar något värde.
-Vad är syftet med en metods (eventuella) parametrar?:Att förse metoden med indata.
+Vad innebär en statisk metod?:Metoden är ej knutet till något objekt, utan till klassen.
+Vad innebär när en metod är 'void'?:Anger att den inte returnerar något värde.
+Vad är syftet med en metods(eventuella) parametrar?:Att förse metoden med indata.
 Vad är en referensvariabel?:En variabel som refererar till ett objekt.
 Beskriv en instansvariabel!:Tillhör objekt (lagrar attribut) och existerar så länge som objektet existerar.
 Vilka tre GUI-huvudpaket finns i Java?:java.awt, javax.swing, javafx

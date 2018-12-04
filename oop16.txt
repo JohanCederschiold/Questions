@@ -1,0 +1,15 @@
+Vad skall buffered-, data-, pushback- och objektinputstream ha som argument till konstruktorn?:Den inström som strömmen skall kopplas till. 
+Vilken klass är superklass för alla in-byteströmmar?:InputStream.
+Vilken klass är superklas för alla in-charströmmar?:Reader
+Vilka ström-kategorier finns det?:Byteströmmar (8-bit) för läsning av binär data och charströmmar (16-bit) för läsning av text.
+Vilken klass fungerar som brygga mellan byte och char inströmmar?:InputStreamReader.
+Vilken klass är superklass för alla ut-charströmmar?:Writer
+Vilken klass är superklass för alla ut-byteströmmar?:OutPutStream
+Vilken metod i inputsstreams childklasser läser data?:Read
+Vad är syftet med Bufferedklasserna(BufferedReader och BufferedInputStream)?:Att buffra data för att tillåta avläsning av block av data istället för byte för byte.
+Vilken metod gör BufferedReader extra intressant att använda?:ReadLine.
+Vilka metoder finns för alla utströmmar?:write(), flush() och close().
+Vilka två sätt kan man hantera strömmar med binära data?:För enkla(primitiva) typer DataInput- & DataOutPutstream. För objekt ObjektOutput- och ObjektInputStream. 
+Vad måste vara uppfyllt för att en klass skall kunna sparas med ObjektOutputStream?:Att klassen för objektet implementerar Serializable eller Externalizable (detta gäller även eventuella refererade objekt).
+Vilka metoder innehåller gränssnittet Serializable?:Inga - det är en markör som visar att man "tillåter" att objektet sparas. 
+Vad används klassen File till?:Att hantera filer (dock inte läsa eller skriva till dem).

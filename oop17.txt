@@ -1,0 +1,6 @@
+Vilka containerklasser finns?:Collections och Maps.
+Vad innebär att en klass är generisk?:Att man kan typbestämma först vid initieringen (och ha ett generellt objekt vid deklarationen).
+Vad är Collection?:Ett grännsnitt som är superklass för bl.a. List, Set och Queue.
+Vad är Collections?:En klass som innehåller en rad behändiga metoder som sort(), shuffle(), binarySearch() m.fl.
+Var är en stack?:En lista med LIFO - Last In First Out.
+Vilka när skall man välja ArraList vs LinkedList eller tvärtom?:ArrayList är snabbare att söka i och LinkedList är snabbare att lägga till eller plocka bort element i.
