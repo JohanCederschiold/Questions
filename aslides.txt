@@ -57,7 +57,7 @@ Vad är en referensvariabel?:En variabel som refererar till ett objekt.
 Beskriv en instansvariabel!:Tillhör objekt (lagrar attribut) och existerar så länge som objektet existerar.
 Vilka tre GUI-huvudpaket finns i Java?:java.awt, javax.swing, javafx
 Vilka två delar består Swing av?:Containers och komponenter
-Vad innebär begreppet "classpath"?:Classpath anger rötter att söka efter klasser ifrån.
+Vad innebär begreppet "classpath"?:Classpath anger rötter att söka efter klasser ifrån så att JVM vet var den skall hitta användardefinierade klasser och paket.
 Vad är en array?: En lista med värden, som har ett index beroende på position i listan.
 Vad innebär reguljära uttryck?:Ett avancerat verktyg för sökning i text.
 Vad innebär "trådar" i Java?:Aktiviteter som pågår samtidigt.
@@ -65,3 +65,5 @@ Beskriv ett sekventiellt program!:Deterministiskt, allt kommer alltid samma ordn
 Beskriv ett program med parallellism!:Icke-deterministiskt, olika ordning och resultat från gång till gång.
 Vilka tre standardströmmar finns i Java?:System.in (InputStream), System.out (PrintStream), System.err (PrintStream)
 Vad är serialisering?:En teknik för att spara och hämta objekt till en ström.
+Varför vill man göra en klass "immutable"?:För att göra den trådsäker.
+Hur gör jag för att använda en primitiv typ i en Collection ex List?:Man måste använda aktuell omslagsklass (ex List<Integer>).
