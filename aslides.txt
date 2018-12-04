@@ -67,3 +67,5 @@ Vilka tre standardströmmar finns i Java?:System.in (InputStream), System.out (P
 Vad är serialisering?:En teknik för att spara och hämta objekt till en ström.
 Varför vill man göra en klass "immutable"?:För att göra den trådsäker.
 Hur gör jag för att använda en primitiv typ i en Collection ex List?:Man måste använda aktuell omslagsklass (ex List<Integer>).
+Vad är Model View Controller?:Det är ett designmönster. Model (datan), View (användargränssnitt) och Controller (processerna som hanterar input). Används vanligtvis för användargränssnitt.
+Vad är ett designmönster?:En problemidentifieringteknik som innebär en dokumenterad "bästa-lösning" på ett känt problem. 
