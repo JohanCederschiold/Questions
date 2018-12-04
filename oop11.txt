@@ -1,0 +1,10 @@
+Hur uppstår ett kompileringsfel?:Det är en följd av att man inte följt språkreglerna (syntaxen). Upptäcks av kompilatorn!
+Var är ett exekveringsfel?:A.k.a. Runtime Exceptions. Det är fel som uppstår först vid exekvering (ex nullpointerexceptions m.fl).
+På vilka sätt kan man hantera exceptions?:Antingen med en Try - Catch sats eller genom att låta den aktuell metoden Throw ett exception.
+Vad är checked exceptions?:Det är exceptionella händelser som kan upptäckas vid kompileringstillfället. Dessa blir man normalt uppmärksammade på av IDEn (Try Catch eller Throw).
+Vad är unchecked exceptions?:Det är exceptionella händelser upptäcks vid runtime.
+När använder man en finally sats (efter try-catch)?:När man vill säkerställa att en resurs (normalt strömmar av olika slag) stängs korrekt även efter ett exception.
+Vad är ett alternativ till try - catch - finally för att hantera resurser?:Try with resources. 
+Var skriver man throws-satsen?:Efter parameterlistan till den aktuella metoden (ex. public void eatBuns () throws EatingBunsException).
+Hur många exceptions kan en metod kasta?:Så många som krävs.
+Hur många exceptions kan en catch sats fånga?:Så många som krävs (ordningen kan dock spela roll).
