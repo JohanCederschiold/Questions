@@ -27,4 +27,41 @@ Var ligger de primitiva typerna och referenser?:På stacken!
 Var ligger objekten?:På heapen!
 Vilken notation används för namngivning av klasser?:PacalNotation
 Vilken notation används för namngivning av metoder?:camelCase. 
-Har gjort till och med...:Slides F11
+Beskriv beräkningsordningen i Java!:Multiplikation, division och modulus FÖRE addition och subtraktion
+Vad är ett interface?:En mall som tvingar den implementerande klassen att ha vissa egenskaper och metoder.
+Vad är en metod?:En algoritm som är associerad till en klass och representerar något ett objekt kan göra.
+Vad innebär en "händelse"?:Att göra en applikation uppmärksam på en tillståndsförändring i objektet.
+Beskriv lokala variabler!:Deklareras inne i metoder och nås bara inifrån metoden. Måste alltid initieras innan användning!
+Beskriv instansvariabler!:Deklareras utanför metoder och kan nås ifrån hela klassen.
+Beskriv statiska variabler!:De är gemensamma för alla instansierade objekt. Anropas med klassnamn och inte objektnamn.
+Beskriv parametervariabler!:Används vid metodanrop.
+Beskriv värdevariabler!:Den kan endast innehåller primitiva typer. Ex. int, double.
+Vad är en referensvariabel?:En variabel som refererar till ett objekt.
+Vad innehåller "stacken"?:Primitiva typer och referenser.
+Vad innehåller "heapen"?:Minnesutrymmen för objekt.
+Vad måste man göra med en metod som INTE är void?: Ge den en return-sats, och typa metoden med retur-typen.
+Vad är en abstrakt klass?: En generell superklass, går ej att skapa objekt från.
+Nämn och beskriv de tre logiska operatorerna!: && (och), ||	(eller), ! (icke).
+Beskriv vad en konstruktor gör!: Den används för att initiera objekt. De har samma namn som klassen och saknar returtyp.
+Beskriv modiferaren "private"!: Synlig enbart i klassen.
+Beskriv modiferaren "public"!: Synlig överallt.
+Beskriv modiferaren "protected"!: Synlig i klassen + dess subklasser.
+Vad gör en omslagsklass?:Tillhandahåller konstanter och metoder som har med den inbyggda datatypen att göra. 
+Vad är "association"?:Objekt som har koppling till varandra (känner-till-relation)
+Vad innebär "aggregat"? Ett överordnat objekt (helheten) består av ett antal andra objekt (delarna).
+Vad är ett paket?:En samling sammanhörande klasser och interface.
+Vad innebär en statisk metod? Metoden är ej knutet till något objekt, utan till klassen.
+Vad innebär när en metod är 'void'? Anger att den inte returnerar något värde.
+Vad är syftet med en metods (eventuella) parametrar?:Att förse metoden med indata.
+Vad är en referensvariabel?:En variabel som refererar till ett objekt.
+Beskriv en instansvariabel!:Tillhör objekt (lagrar attribut) och existerar så länge som objektet existerar.
+Vilka tre GUI-huvudpaket finns i Java?:java.awt, javax.swing, javafx
+Vilka två delar består Swing av?:Containers och komponenter
+Vad innebär begreppet "classpath"?:Classpath anger rötter att söka efter klasser ifrån.
+Vad är en array?: En lista med värden, som har ett index beroende på position i listan.
+Vad innebär reguljära uttryck?:Ett avancerat verktyg för sökning i text.
+Vad innebär "trådar" i Java?:Aktiviteter som pågår samtidigt.
+Beskriv ett sekventiellt program!:Deterministiskt, allt kommer alltid samma ordning och ger samma resultat.
+Beskriv ett program med parallellism!:Icke-deterministiskt, olika ordning och resultat från gång till gång.
+Vilka tre standardströmmar finns i Java?:System.in (InputStream), System.out (PrintStream), System.err (PrintStream)
+Vad är serialisering?:En teknik för att spara och hämta objekt till en ström.
