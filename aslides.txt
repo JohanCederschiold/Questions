@@ -20,4 +20,11 @@ Vad kallas det när man ger en variabel ett VÄRDE?:Tilldelning.
 Vad innebär "tilldelning"?:Att man tilldelar en variabel eller referens ett värde. 
 Vilka är de primitiva datatyperna?:byte, short, int, long, float, double, char, boolean. 
 Vilken är modulus operatorn?:% procentecknet. 
-Har gjort till och med...:Slides F5
+Vad är attribut(Egenskap)?:Det är instansvariablerna i en klass.
+Vilka variabelkategorier finns?:Lokala(i metoder), Instans(för instanser av klasser), Statiska(gemensamma klassvariabler), Parameter(inom parenteserna till metoder), konstanter (final), Referens och värde.
+Vilka variabeltyper finns?:Primitiva typer och referenser. 
+Var ligger de primitiva typerna och referenser?:På stacken!
+Var ligger objekten?:På heapen!
+Vilken notation används för namngivning av klasser?:PacalNotation
+Vilken notation används för namngivning av metoder?:camelCase. 
+Har gjort till och med...:Slides F11
