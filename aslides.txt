@@ -59,7 +59,7 @@ Vilka tre GUI-huvudpaket finns i Java?:java.awt, javax.swing, javafx
 Vilka två delar består Swing av?:Containers och komponenter
 Vad innebär begreppet "classpath"?:Classpath anger rötter att söka efter klasser ifrån så att JVM vet var den skall hitta användardefinierade klasser och paket.
 Vad är en array?: En lista med värden, som har ett index beroende på position i listan.
-Vad innebär reguljära uttryck?:Ett avancerat verktyg för sökning i text.
+Vad innebär reguljära uttryck?:Ett avancerat verktyg för sökning i och manipulation av text. Ex. "\n"
 Vad innebär "trådar" i Java?:Aktiviteter som pågår samtidigt.
 Beskriv ett sekventiellt program!:Deterministiskt, allt kommer alltid samma ordning och ger samma resultat.
 Beskriv ett program med parallellism!:Icke-deterministiskt, olika ordning och resultat från gång till gång.
@@ -68,4 +68,10 @@ Vad är serialisering?:En teknik för att spara och hämta objekt till en ström
 Varför vill man göra en klass "immutable"?:För att göra den trådsäker.
 Hur gör jag för att använda en primitiv typ i en Collection ex List?:Man måste använda aktuell omslagsklass (ex List<Integer>).
 Vad är Model View Controller?:Det är ett designmönster. Model (datan), View (användargränssnitt) och Controller (processerna som hanterar input). Används vanligtvis för användargränssnitt.
-Vad är ett designmönster?:En problemidentifieringteknik som innebär en dokumenterad "bästa-lösning" på ett känt problem. 
+Vad är ett designmönster?:En problemidentifieringteknik som innebär en dokumenterad "bästa-lösning" på ett känt problem.
+Vilka tre sorters fel kan inträffa när du kör ett program?:Kompileringsfel, exekveringsfel eller logiskt fel.
+När är det ofta lämpligt att använda sig av omslagsklasser?:När man använder sig av Collections.
+Vad är en race condition?:När två eller flera trådar försöker ändra samma data samtidigt.
+Vad är en identifierare?:Namnen på variabler, metoder, klasser, paket och interfaces.
+Beskriv Stringbuilder-klassen!:Är till motsats från String "mutable", alltså föränderlig. Lik Stringbuffer men är EJ trådsäker/synchronized!
+Beskriv Stringbuffer-klassen!:Är till motsats från String "mutable", alltså föränderlig. Lik Stringbuiuilder men ÄR trådsäker/synchronized! 
