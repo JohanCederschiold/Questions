@@ -1,6 +1,6 @@
-Hur ska en user story formuleras?: Som en [roll] vill jag [mål/önskan] så att [fördel].
+﻿Hur ska en user story formuleras?: Som en [roll] vill jag [mål/önskan] så att [fördel].
 Vad kan User Story Mapping hjälpa till med?: Att skapa en bild av VAD som ska skapas, samt att planera iterationer (versioner).
-Vad är “de tre C:en”?: Tre viktiga aspekter kring user stories ----> Card (själva post it-lappen), Conversation (att genom kommunikation hitta den bästa lösningen), Confirmation (kraven för att implementation anses som klar).
+Vad är “de tre C-en”?: Tre viktiga aspekter kring user stories ----> Card (själva post it-lappen), Conversation (att genom kommunikation hitta den bästa lösningen), Confirmation (kraven för att implementation anses som klar).
 Vilka tre aspekter är bra att ta hänsyn till vid planering av en iteration?: Inlärning (ex. MVP-experiment, vad som händer), Utveckling (undersöka risker tidigt) och Releases (släppa viktigaste funktionaliteten).
 Vad finns överst på en User Story Map?: Aktiviteterna (hos en användare av applikationen). Dessa kallas "epics" på engelska.
 Vad kan det finnas för fördel med att kombinera användandet av en Impact Map och en User Story Map: Det kan göra det lättare att välja ut user stories och undvika "story card hell".
