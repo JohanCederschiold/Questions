@@ -21,3 +21,9 @@ Vad är inverkan/impacts?:Beskriver vilket beteende våra aktörer skulle kunna 
 Vad bör man ha i åtanke med impacts?:Vilka typer av inverkan, Vad vill aktören, Var kvantitativ om möjligt, Positiv och negativ inverkan, Inverkanselement kan stå i motsats till eller komplettera varandra.
 Vad är leverabler?:Lösningarna som produceras från aktörernas inverkan. 
 Vilka frågor bör man ställa sig kring varje leverabel?:Är detta enklaste sättet? Finns alternativ? Kan det testas? Icke tekniska lösningar?
+Beskriv en strategi!: En övergripande plan för att uppnå ett eller flera mål under osäkra omständigheter.
+Beskriv en taktik!: En konkret handling med syfte att uppnå ett mål.
+Vad står bokstäverna i SMART för?: Specific (konkret, väldefinierat mål), Measurable (mätbart via ex. ja/nej eller ett värde), Achievable (realistiskt) , Relevant (för projektet), Time-bound (uppnått vid given tidpunkt).
+Ange fem mätattribut för att mäta ett mål!: Scale (vad vi mäter), Meter (hur vi mäter), Benchmark (dagens mätvärde), Constraint (minimala acceptabla värdet), Target (det önskade värdet).
+Ange delarna i en impact map!: Mål, Aktörer, Inverkan, Leverabler.
+Hur ska en user story formuleras?: Som en [roll] vill jag [mål/önskan] så att [fördel].
