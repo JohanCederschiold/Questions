@@ -1,0 +1,26 @@
+﻿Vad betyder UML?:Unified Modeling Language!
+Vad är UML?:Det är ett "språk" för modellering av objektorienterade system.
+Ge exempel på några vanliga verktyg från UML?:Användningsfallsmodeller (use cases), Interaktionsdiagram och aktivitetsdiagram
+Vad är skillnaden mellan designmodeller och domänmodeller?:Designmodeller(tekniska modeller) -> klassdiagram. Domänmodeller (icke-tekniska modeller) visar äver interaktionen med icke tekniska objekt.
+Vad kallas det när man skapar ett objekt från en klass?:Man instansierar objektet. 
+Vilka tre områden finns normalt i fyrkanten som representerar en klass UML?:Classnamn, Attribut (instansvariabler) och Metoder.
+Hur kan man känna igen en klassmetod eller klassvariabel?:Det är märkta med nyckelordet "static".
+Hur utmärker sig en klassvariabel eller klassmetod i UML?:Den är understruken.
+Vad använder man gränssnitt till?:Att specificera metodsignaturer som den impelementerande klassen måste definiera. 
+Hur känner man igen interfaces i UML?:Det står <<interface>> ovanför gränssnittsnamnet. 
+Vad kallas det i UML när en klass implementerar ett gränssnitt?:Man kallar det "realisering".
+Hur markerar man realisering i UML?:Med en streckad linje som slutar i en vit triangel (riktning mot interfacet)
+Hur markerar man arv i UML?:Med en fast linje som slutar i en vit triangel (riktning mot superklassen)
+Vad innebär "association"?:Att klass A refererar till klass B i en (eller flera) av sin(a) instansvariabler.
+Vad kallas det (inom UML) när en referensvariabel i en klass refererar till en annan klass?:Association.
+Vad kallas relationen (inom UML) där en klass består av instanser en annan klass?:Sammansättning eller composition!
+Vilken relation beskrivs som att en instans av en klass inte är meningsfull utanför livsscykeln av en annan klass?:Sammansättning eller composition.
+Beskriv sammansättning/composition!:Association där en instansen av klassen A inte är meningsfull utanför livscykeln av instansen av klassen B.
+Hur markerar man composition i UML?:Med en linje med en ifylld diamant på slutet (med riktning mot det dominerande objektet).
+Hur betecknar man mängdförhållanden i UML?:Som multilplicitet (siffor i vardera ända av linjen).
+Vad betecknar * (multiplicitet)?:Noll eller fler instanser.
+Vad betecknar n (multiplicitet)?:Exakt n instanser.
+Vad betecknar n..m (multiplicitet)?:Från n till m instanser.
+Vad betecknar n..* (multiplicitet)?:n eller fler instanser.
+Vad är beroende (dependency)?:När metoderna i en klass använder instanser av en klass (utan att ha dem i en instansvariabel). Det är en lösare form av association.
+Hur markerar man dependency i UML?:Med en streckad linje som slutar i en pil (pekar från klassen med de användande metoderna).

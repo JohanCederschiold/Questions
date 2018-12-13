@@ -1,0 +1,23 @@
+Vad är ett mission statement?:En kort beskrivning av en organisations syfte.
+Vad är ett vision statement?:En expansion på mission statement som siktar mer på vad man vill bli än vad man vill vara. 
+Vad är skillnaden mellan ett mission statement och ett vision statement?:Mission statement avser "nuet" medans vision statement fokuserar på vart man vill komma.
+Vad betyder förkortningen SMART?:Specific, Measurable, Achievable, Relevant och Timebound.
+Vad innebär att ett mål skall vara Specific?:Konkret och väldefinierat. Det skall vara uppenbart huruvida det är uppfyllt
+Vad innebär att ett mål skall vara Measurable?:Mätbart (ja, nej, numeriskt värde eller en kvot).
+Vad innebär att ett mål skall vara Achievable?:Målet måste vara realistiskt.
+Vad innebär att ett mål skall vara Relevant?:Målet måste vara relevant för projektet.
+Vad innebär att ett mål skall vara Time-bound?:Det måste finnas en deadline.
+Vilka mätattribut föreslås av Tom Gilb?:Scale, Meter, Benchmark, Constraint och Target.
+Förklara Scale!:Vad mäter vi (besök på hemsidan, användare av produkt)?
+Förklara Meter!:Hur mäter vi (antal träffar per dag, antal användare som loggat in på sju dagar)?
+Förklara Benchmark!:Vilket är värdet idag?
+Förklara Constraint!:Vilket är det minsta acceptabla värdet?
+Förklara Target!:Vilket är målet vi siktar på?
+Var är KPI?:Key Performance Indicators (nyckelvärden - indikatorer på verksamheten).
+Vad är en impact map?:En teknik för att låta tekniker och icke-tekniker få en översikt för effektiv planering för hur man skall nå ett utsatt mål.
+Beskriv lagren (inifrån och ut) i en impact map!:Mål, Aktörer, Inverkan/Impacts och Leverabler.
+Vad är Aktörer?:Aktörer som kan påverka (eller påverkas av) resultatet. Kan även omfatta aktörer som vill förhindra målet.
+Vad är inverkan/impacts?:Beskriver vilket beteende våra aktörer skulle kunna ha för att påverka måluppfyllnad. 
+Vad bör man ha i åtanke med impacts?:Vilka typer av inverkan, Vad vill aktören, Var kvantitativ om möjligt, Positiv och negativ inverkan, Inverkanselement kan stå i motsats till eller komplettera varandra.
+Vad är leverabler?:Lösningarna som produceras från aktörernas inverkan. 
+Vilka frågor bör man ställa sig kring varje leverabel?:Är detta enklaste sättet? Finns alternativ? Kan det testas? Icke tekniska lösningar?
