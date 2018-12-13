@@ -12,7 +12,7 @@ Vad kallas det i UML när en klass implementerar ett gränssnitt?:Man kallar det
 Hur markerar man realisering i UML?:Med en streckad linje som slutar i en vit triangel (riktning mot interfacet)
 Hur markerar man arv i UML?:Med en fast linje som slutar i en vit triangel (riktning mot superklassen)
 Vad innebär "association"?:Att klass A refererar till klass B i en (eller flera) av sin(a) instansvariabler.
-Vad kallas det (inom UML) när en referensvariabel i en klass refererar till en annan klass?:Association.
+Vad kallas det (inom UML) när en instansvariabel i en klass refererar till en annan klass?:Association.
 Vad kallas relationen (inom UML) där en klass består av instanser en annan klass?:Sammansättning eller composition!
 Vilken relation beskrivs som att en instans av en klass inte är meningsfull utanför livsscykeln av en annan klass?:Sammansättning eller composition.
 Beskriv sammansättning/composition!:Association där en instansen av klassen A inte är meningsfull utanför livscykeln av instansen av klassen B.

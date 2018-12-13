@@ -1,10 +1,10 @@
-Vilka två roller finns inom parprogrammeringen och vad gör de?:Förare(skriver koden) och Navigatör (granskar koden - strategiskt perspektiv).
+﻿Vilka två roller finns inom parprogrammeringen och vad gör de?:Förare(skriver koden) och Navigatör (granskar koden - strategiskt perspektiv).
 Vad är fokus för föraren?:Nästa rad, syntax, klassen som är under utveckling.
 Vad är fokus för navigatören?:Att rätt program byggs, på rätt sätt. Finns alternativa lösningar. Hur påverkas resten av programmet. 
-Hur stora uppskattar man kostnadsökningarna med parprogrammeringen?:15 - 100%
-Hur mycket kan man minska defekterna i koden med med parprogrammeringen?:15%
+Hur stora uppskattar man kostnadsökningarna till med parprogrammeringen?:15 - 100%
+Hur mycket kan man minska defekterna i koden med med parprogrammeringen (enligt vissa undersökningar)?:15%
 Nämn några fördelar med parprogrammering!:Färre defekter, kunskapsspridning, fler möjliga lösningar, programmerarna tryggare med lösningen.
 När är det inte lika lämpligt med parprogrammering?:När det handlar om mer rutinmässig programmering. 
 Vilka utmaningar finns med parprogrammering?:Risk att man "visar" istället för att förklara eller att navigatören även tar på sig förarrollen. 
-Vad är ett varningstecken vid parprogrammering?:Tysthet.
+Vad är ett varningstecken vid parprogrammering?:Tysthet. Kan påvisa brist på samarbete.
 Vilken är den minst produktiva användningen av parprogrammering?:Att sätta två experter tillsammans.
