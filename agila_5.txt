@@ -4,3 +4,4 @@ Vad är “de tre C-en”?: Tre viktiga aspekter kring user stories ----> Card (
 Vilka tre aspekter är bra att ta hänsyn till vid planering av en iteration?: Inlärning (ex. MVP-experiment, vad som händer), Utveckling (undersöka risker tidigt) och Releases (släppa viktigaste funktionaliteten).
 Vad finns överst på en User Story Map?: Aktiviteterna (hos en användare av applikationen). Dessa kallas "epics" på engelska.
 Vad kan det finnas för fördel med att kombinera användandet av en Impact Map och en User Story Map: Det kan göra det lättare att välja ut user stories och undvika "story card hell".
+Vilka fyra steg genomgår man normalt för att skapa en User Story Map?:1.Rama in problemet(varför, vad, för vem, fördelar) 2.Bredd (berättelsen) 3.Djup (utforska användare och steg) 4.Skär ut en strategi (de tre Cna).

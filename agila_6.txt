@@ -1,6 +1,6 @@
-Vad är WIP-limits?: I Kanban en begränsning av hur många arbetsobjekt som kan pågå åt gången. WIP = Work In Progress. Synliggör flödesproblem, leder till samarbete och skapar slack. Lägre WIPlimit innebär ofta högre kvalitet.
+﻿Vad är WIP-limits?: I Kanban en begränsning av hur många arbetsobjekt som kan pågå åt gången. WIP = Work In Progress. Synliggör flödesproblem, leder till samarbete och skapar slack. Lägre WIPlimit innebär ofta högre kvalitet.
 Vad är ett "pull system"?: Att du åtar dig arbetsobjekt när kapaciteten finns.
 Vad motsvarar kolumnerna i en Kanban-board?: De olika aktivitetsstegen i en arbetsprocess. (ex. backlog, to do, done). Ett steg kan ha underkolumnerna "doing" och "done".
-Vad kallas de olika raderna i Kanban?: Swimlanes. Exempel på swimlanes: "Bugfixes", "Features", "Underhåll" osv.
+Vad kallas de olika raderna i Kanban?: Swimlanes. Exempel på swimlanes är "Bugfixes", "Features", "Underhåll" osv.
 Ge exempel på vad det kan finnas för s.k. serviceklasser i Kanban!: Standard, Påskyndad, Låg prioritet, Fast leveransdatum.
 Ge exempel på visualisering av kort i Kanban!: Vem som arbetar med kortet, Deadline, Hanterings-ID (ex. GitHub-nr), Serviceklass.
