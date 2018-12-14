@@ -1,0 +1,28 @@
+Ge exempel på steg som kan ingå i projektplanering?:Omfattning (budget, tidram etc), Identifiera aktiviteter, Skapa aktivitetsnätverk, Allokera resurser samt Identifiera risker. 
+Vad är normalt resultatet av en aktivitet?:Den skall helst producera någonting (ett arbetspaket). 
+Vad är en WBS och vad använder man den till?:Work Breakdown Structure - Ett sätt att bryta ner arbetspaket hierarkiskt.
+Vad innebär 100% regeln?:Att all tid måste allokeras och att ingenting som inte hör till projektet skall vara med. 
+Vad är syftet med ett aktivitetsnätverk?:Att ordna aktiviteterna så att man får överblick över i vilken ordning de behöver färdigställas. 
+Vad är critical path(kritiska linjen)?:Gör i aktivitetsnätverk. Avser den längsta aktivitetslinjen där det finns störst risk för flaskhalsar. 
+Vad är ett Gantt schema?:Det visar vad varje person skall göra och när. 
+Hur kan man kvantifiera risk?: Exponering = Sannolikhet x Inverkan. 
+Vilka riskstrategier kan man tillämpa?:Acceptera (do nothing), Undvika (tenderar att vara dyr), Reducera (minska exponeringen), Överföra (låt en tredje part ta risken).
+Ge ett exempel på risreducering?:Säkerhetskopiering. Små kostnader men återställningsbar information som resultat. 
+Ge ett exempel på att undvika risk?:Att man väljer en mer beprövad teknik som man vet fungerar. 
+Hur kan man överföra risk på en tredje part?:Bl.a. genom försäkringar.
+Vilket annat namn går ofta sekventiell utveckling av programvara under?:Vattenfallmodellen. 
+Vilka två steg menar Royce ingår i utvecklingen av all mjukvara?:Analys och kodning. 
+Hur mycket av tiden uppskattade Royce skulle läggas på analysfaserna?:20 - 40%
+Hur mycket av tiden uppskattade Royce skulle läggas på design och kodfaserna?:30 - 40%
+Hur mycket av tiden uppskattade Royce skulle läggas på test och lansering?:20 - 30%
+Ge exempel på faser som normalt ingår i vattenfallsmodellen?:System Requirements (kravspec, högnivå system), Software Requirements (kravspec, högnivå specific komponent), Analysis (kravspec, detaljerade krav), Program Design (programvaruarkitektur), Coding (integrerad programvara), Testing (identifierade buggar) och Operations.
+Vad är affärsregler?:En regel som alltid är uppfylld eller inte. Ex betalda ordrar skall inte kunna plockas bort från systemet.
+Vilka fem åtgärder föreslår Royce för att minska risken för buggar som upptäcks sent?: 1. skapa en preliminär programdesign. 2. Dokumentera. 3. Simulera sluprodukten. 4. Test noggrant 5. Involvera kunden
+Vad menas med en "preliminär programdesign"?:Att man innan man går in i analysfasen och designar en variant av funktioner, databasen, gränssnitt m.m.).
+Vad är syftet med en "preliminär programdesign"?:Att minst en person skall få en djup förståelse för hur systemet fungerar. 
+Ge exempel på dokumentation som förespråkas i ett sekventiellt projekt!:Kravspecifikation, Preliminär designspecifikation, Gränssnittsdesignspecifikation (puuh), slutlig designspecifikation, testplansspecifikation, manualer.
+Hur ser modellen för att simulera slutprodukten ut?:Man lägger ca 30% av tiden på att utföra en miniatyrprocess av utvecklingsstegen. På så sätt blir versionen som kunden ser den "andra" versionen. 
+Vad menas med "testa noggrant"?:Att varje "gren" i programmet testas (att både if och else testas) samt att att någon utomstående korrekturläser koden. 
+Vilka fördelar finns med sekventiell utveckling?:Minimalt med planering när projektet är up and running. Kan vara bra om man har oerfarna utvecklare. 
+Vilka nackdelar finns med sekventiell utveckling?:Oflexibelt, långa ledtider, sen feedback.
+Vad säger det Agila manifestet?:Individer och interaktioner framför processer och verktyg, Fungerande programvara framför omfattande dokumentation, Kundsamarbete framför kontraktsförhandling och Anpassning till förändring framför att följa en plan.
