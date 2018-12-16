@@ -5,3 +5,5 @@ Vilka tre aspekter är bra att ta hänsyn till vid planering av en iteration?: I
 Vad finns överst på en User Story Map?: Aktiviteterna (hos en användare av applikationen). Dessa kallas "epics" på engelska.
 Vad kan det finnas för fördel med att kombinera användandet av en Impact Map och en User Story Map: Det kan göra det lättare att välja ut user stories och undvika "story card hell".
 Vilka fyra steg genomgår man normalt för att skapa en User Story Map?:1.Rama in problemet(varför, vad, för vem, fördelar) 2.Bredd (berättelsen) 3.Djup (utforska användare och steg) 4.Skär ut en strategi (de tre Cna).
+Vad är en Build-Measure-Learn loop?:En metodik från Lean startup med syfte att kunna testa en idé med minimal insats. 
+Vad består Build-Measure-Learn loopen av?:Trots namnet börjar den med en Plan (hypotesen). Build (MVP) -> Measure (hypotes vs resultat) -> Learn (dra slutsats).

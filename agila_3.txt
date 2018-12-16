@@ -1,5 +1,5 @@
-Vilka fördelar finns med enhetstester?:Att man kan automatisera tidskrävande testmoment. Att man kan "bevaka" kod och få varningar om något plötsligt slutar fungera. Det kan även fungera som teknisk dokumentation.
-Ett enhetstest kan bevisa korrekthet?:Falskt - det kan flagg för inkorrekthet, men kan inte garantera att allt är korrekt. 
+﻿Vilka fördelar finns med enhetstester?:Att man kan automatisera tidskrävande testmoment. Att man kan "bevaka" kod och få varningar om något plötsligt slutar fungera. Det kan även fungera som teknisk dokumentation.
+Ett enhetstest kan bevisa korrekthet?:Falskt - det kan flagga för inkorrekthet, men kan inte garantera att allt är korrekt. 
 Vilka olika typer av test finns?:Enhetstester, integrationstester, systemtester och användartester. 
 Vad är ett integrationstest?:Testar hur väl en samling klasser fungerar ihop.
 Vad är ett systemtest?:Testar ett komplett och integrerat system.

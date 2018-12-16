@@ -26,3 +26,5 @@ Vad menas med "testa noggrant"?:Att varje "gren" i programmet testas (att både 
 Vilka fördelar finns med sekventiell utveckling?:Minimalt med planering när projektet är up and running. Kan vara bra om man har oerfarna utvecklare. 
 Vilka nackdelar finns med sekventiell utveckling?:Oflexibelt, långa ledtider, sen feedback.
 Vad säger det Agila manifestet?:Individer och interaktioner framför processer och verktyg, Fungerande programvara framför omfattande dokumentation, Kundsamarbete framför kontraktsförhandling och Anpassning till förändring framför att följa en plan.
+Vilka fördelar finns med agil utveckling?: Bra i projekt där det är svårt uppskatta, planera och förutsäga. Kan anpassas efter förändrade krav. Kort ledtid tills att fungerande programvara börjar levereras. 
+Vilka nackdelar finns med agil utveckling?: Svårt att budgetera och uppskatta tid. Kundinvolvering kan vara dyrt för kunden. Kräver mer erfarna utvecklare. Kan vara svårt att förstå för folk som är vana vid traditionell projektstyrning. 
