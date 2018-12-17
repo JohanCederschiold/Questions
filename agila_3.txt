@@ -6,3 +6,5 @@ Vad är ett systemtest?:Testar ett komplett och integrerat system.
 Vad är ett användartest?:Ett test med riktiga användare. 
 Vad står TDD för?:Test Driven Development. 
 Beskriv testdriven utveckling!:Testfallen skrivs (generellt) innan övrig kod. Implementationens uppgift blir att uppfylla testkraven och anses vara klar när den gör det. Kod får generellt inte läggas till utan att testfall först skrivits. 
+Hur stora är kodblocken man normalt testar i enhetstester (java)?:Normalt är det begränsat till enskilda klasser eller metoder.
+Vad är ett mjukvarutest?:Kod som testar kod. 

@@ -1,4 +1,4 @@
-Nämn de tre identifierade egenskaperna för effektiva team!:Motiverade med ett meningsfullt mål. Självorganiserande. Multidisciplinära medlemmar.
+﻿Nämn de tre identifierade egenskaperna för effektiva team!:Motiverade med ett meningsfullt mål. Självorganiserande. Multidisciplinära medlemmar.
 Vad är en bra teamstorlek enligt undersökningar?:7 +/- två medlemmar.
 Var är en "Sprint".:Det är en iteration i scrumprocessen. 
 Vad är daily standup?:Ett dagligt möte som hålls stående. Man svara på Vad man gjorde igår, Vad man skall göra idag och Om man upplevt några problem. Mötet skall inte vara mer än 15 minuter
@@ -18,3 +18,5 @@ Vilka skillnader finns mot Kanban?:Kanban har ingen timeboxing och inga sprints.
 Vad händer under en "Sprint Review"?:Man redogör för hur gruppen presterat mot sitt övergripande mål (antal story points). Kan även innebära en demo av produkten eller andra leverabler. Normalt använder man inte rapporter, powerpoints eller liknande. Kund och PO kan delta.
 Vad är en "Sprint retrospective"?:Sker normalt direkt efter Sprint Review. Fokus på hur processen kan förbättras. Start-Stop-Continue övningar. PO kan delta.
 Vad kallas processen där man strävar efter kontinuerliga förbättringar?:Kaizen. 
+Vad kallas momenten inom Scrum?:De kallas ofta "ritualer".
+Vad är artefakter?:Exempel är product backlog och sprint backlog.

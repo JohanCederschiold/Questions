@@ -1,4 +1,4 @@
-Vad innebär kravhantering?: Att specificera och underhålla krav.
+﻿Vad innebär kravhantering?: Att specificera och underhålla krav.
 Vad är elicitering?: Att identifiera krav.
 Vad är funktionella krav?: De beskriver VAD ett system ska göra.
 Vad är kvalitetskrav?: De beskriver HUR VÄL systemet utför sina uppgifter (t.ex. hur fort det går, inlärningskurva för användare).
@@ -13,8 +13,9 @@ Beskriv ett sekvensdiagram!: Ett UML-diagram som kan visa hur objekt interagerar
 Vad är en "task description"?: En specifikationsteknik som beskriver vilken uppgift användaren och systemet uppnår tillsammans. 
 Vilka 6 delar ingår i en "task description"-struktur?: 1. Purpose. 2. Trigger/Precondition. 3. Frequency. 4. Critical. 5. Sub-tasks. 6. Variants.
 Förklara vad ett krav på DOMÄN-nivå är!: Krav som beskriver vad produkten och dess användare uträttar tillsammans (ex. Task Description).
-Förklara vad ett krav på PRODUKT-nivå är!: Krav som beskriver vad produkten ska kunna göra. (ex. Feature Requirements, User Stories, skärmbilder). Kallas även "black box"-krav.
+Förklara vad ett krav på PRODUKT-nivå är!: Krav som beskriver vad produkten ska kunna göra ur användarens perspektiv (ex. Feature Requirements, User Stories, skärmbilder). Kallas även "black box"-krav.
 Förklara vad ett krav på DESIGN-nivå är!: Krav som beskriver vad systemet gör för att produkten ska uppfylla produktkravet, vad som händer under huven (ex. aktivitets- och sekvensdiagram). Kallas även "white box"-krav.
 Nämn åtta egenskaper som ett krav rekommenderas ha!: 1. Korrekta. 2. Kompletta. 3. Entydiga. 4. Konsistenta. 5. Rankade. 6. Modifierbara. 7. Verifierbara. 8. Spårbara.
 Nämn några eliciteringstekniker!: Intervjuer, Brainstorming, Fokusgrupper, Enkäter, Workshops.
 Beskriv ett bra sätt att starta en elicitering av krav!: Kartläggning av domänen (vad användarna och systemet ska uträtta tillsammans) och domänhändelser (vilka händelser som gör att en aktivitet utförs).
+Vad är ett annat namn för kvalitetskrav?:Non-functional requirements.
