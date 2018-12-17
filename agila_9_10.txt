@@ -1,0 +1,20 @@
+Nämn de tre identifierade egenskaperna för effektiva team!:Motiverade med ett meningsfullt mål. Självorganiserande. Multidisciplinära medlemmar.
+Vad är en bra teamstorlek enligt undersökningar?:7 +/- två medlemmar.
+Var är en "Sprint".:Det är en iteration i scrumprocessen. 
+Vad är daily standup?:Ett dagligt möte som hålls stående. Man svara på Vad man gjorde igår, Vad man skall göra idag och Om man upplevt några problem. Mötet skall inte vara mer än 15 minuter
+Vilka typer av backlogs finns?:Product backlogs och Sprint Backlog.
+Vilka objektstyper kan (generellt) förekomma i backlogs?:Features (ex user stories), Defekter(bugs), Tekniskt arbete (förfining av kod etc) samt kunskapsinförskaffande.
+Vad är en Product backlog?:Innehåller arbetsobjekt som är kandidater för att realisera produkten (ofta user stories). Alltid ETT dokument. Inga tekniska detaljer och man skall kunna göra tidsuppskattning. Kan även vara ett helt aktivitetssteg (epic) från en user story map. 
+Vad är en Sprint backlog?:Innehåller endast de uppgifter som skall genomföras inom innevarande Sprint. Uppgifterna kommer från product backlog väljs ut av teamet under sprintplaneringen (där de bryts ner till uppgifter). Uppgifterna skall ta 1 - 8 timmar att genomföra. 
+Hur ser stegen i scrumprocessen ut?:Product backlog -> Sprint planering -> Sprint Backlog -> Sprint (1 - 4 veckor) -> Sprint Review -> Sprint Retrospective
+Var är en "Product owner"?:Det är en roll i scrum men inte en del av teamet. Spenderar normalt tiden kund/team. PO skall bedöma vad som ger mest "bang for the buck" (värde för kunden / arbetsinsats). Ansvarar för produktresultatet internt och externt. Fokuserar på vad och varför. 
+Vad är en "Scrum master"?:En del av Scrumteamet. Skall "ta bort hinder" för teamet. Fokusera på hur (inte vad och varför som PO tar hand om).
+Hur mycket kan uppskattningar skilja sig från verkligheten?:Med en faktor om 16.
+Vad kallas de relativa siffror man använder för att göra relativa uppskattningar?:De kallas user story points. 
+Hur fungerar "Planning poker"?:Genomförs normalt med en speciellt kortlek med kort enligt (exempelvis) fiboncci sekvensen (1, 2, 3, 5, 8 osv). Varje medlem väljer kortet som bäst reflekterar arbetsinsatsen. Om det skiljer mer än tre steg tar man en diskussion och gör om omröstningen.
+Hur kan man prioritera när man gjort planning poker?:Man kan dela KUNDVÄRDE / ARBETSINSATS för att se vad som ger mest värde för minst arbete.
+Vad händer under en "Sprint planning Meeting"?: Upp till 8 timmar (normalt ca 2 h * antal sprintveckor).Inpektera product backlog som PO satt och väljer vilka arbetsobjekt man skall jobba med. Objekten bryts ned i tasks (1 - 8 timmar). Här sätter man även ett Sprint Goal.
+Vilka skillnader finns mot Kanban?:Kanban har ingen timeboxing och inga sprints. Releaser m.m. planeras löpande. Kanban har ofta större team och arbetsobjekten kan vara större i kanban.
+Vad händer under en "Sprint Review"?:Man redogör för hur gruppen presterat mot sitt övergripande mål (antal story points). Kan även innebära en demo av produkten eller andra leverabler. Normalt använder man inte rapporter, powerpoints eller liknande. Kund och PO kan delta.
+Vad är en "Sprint retrospective"?:Sker normalt direkt efter Sprint Review. Fokus på hur processen kan förbättras. Start-Stop-Continue övningar. PO kan delta.
+Vad kallas processen där man strävar efter kontinuerliga förbättringar?:Kaizen. 
