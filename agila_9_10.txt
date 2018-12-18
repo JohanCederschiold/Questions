@@ -19,4 +19,4 @@ Vad händer under en "Sprint Review"?:Man redogör för hur gruppen presterat mo
 Vad är en "Sprint retrospective"?:Sker normalt direkt efter Sprint Review. Fokus på hur processen kan förbättras. Start-Stop-Continue övningar. PO kan delta.
 Vad kallas processen där man strävar efter kontinuerliga förbättringar?:Kaizen. 
 Vad kallas momenten inom Scrum?:De kallas ofta "ritualer".
-Vad är artefakter?:Exempel är product backlog och sprint backlog.
+Vad är artefakter?:(Från latin ars facere = konstgjort föremål) Exempel är product backlog och sprint backlog.
